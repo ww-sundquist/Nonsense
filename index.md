@@ -6,3 +6,5 @@ My name is Inigo Montoya. You killed my father. Prepare to die. Here is a list o
 - cat
 - chimp
 - fish
+- shrimp
+- snail
