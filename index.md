@@ -1,10 +1,3 @@
-# This is a header
+# Walker Sundquist
 
-My name is Inigo Montoya. You killed my father. Prepare to die. Here is a list of animals:
-
-- dog
-- cat
-- chimp
-- fish
-- shrimp
-- snail
+I am an academic coorinator and postbaccalaureate researcher as the UCSB Department of Physics.
